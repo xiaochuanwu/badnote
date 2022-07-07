@@ -1,2 +1,2 @@
-# fake_goodnote
+badnote
 学渣笔记
